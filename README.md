@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Asrinss/Leet-Code/tree/master/0890-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Asrinss/Leet-Code/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Asrinss/Leet-Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
