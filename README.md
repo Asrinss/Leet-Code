@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Asrinss/Leet-Code/tree/master/0812-rotate-string) |
+| [3379-score-of-a-string](https://github.com/Asrinss/Leet-Code/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
