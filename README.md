@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Asrinss/Leet-Code/tree/master/0890-lemonade-change) |
+| [2058-concatenation-of-array](https://github.com/Asrinss/Leet-Code/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/Asrinss/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Asrinss/Leet-Code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
