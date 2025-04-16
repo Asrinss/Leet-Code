@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2556-convert-the-temperature](https://github.com/Asrinss/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Asrinss/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
