@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Asrinss/Leet-Code/tree/master/0890-lemonade-change) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Asrinss/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Asrinss/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asrinss/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/Asrinss/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Asrinss/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
@@ -36,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Asrinss/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Asrinss/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Asrinss/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Asrinss/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
